@@ -6,6 +6,7 @@
 </head>
 <body>
 	<h1>SAMPLE VIEW</h1>
+	<h2>This is the edited view</h2>
 
 
 
